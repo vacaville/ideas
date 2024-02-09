@@ -1,30 +1,37 @@
-GitHub Issues can support the process of engaging citizens, informing city staff, and facilitating responsive actions from the city staff and council. Here’s how it could work and what other tools and techniques could complement this approach:
+# How to Contribute Ideas to Our City Using GitHub
 
-### Using GitHub Issues for Civic Engagement:
+Welcome to our city's community engagement platform! We're excited to have you here and look forward to hearing your innovative ideas to make our city even better. Here's a simple guide on how to use GitHub to contribute your ideas for consideration.
 
-* Issue Tracking for Public Concerns: GitHub Issues can be used to track public concerns, suggestions, and projects. Residents can create an "issue" to report a problem or propose an idea, allowing for public discussion, tracking of progress, and resolution.
-* Labels and Milestones: Use labels to categorize issues (e.g., infrastructure, public safety, environment) and milestones to track progress on larger projects or initiatives. This helps in organizing and prioritizing the community's concerns.
-* Collaborative Problem-Solving: The platform can foster collaborative problem-solving, where city staff, council members, and citizens discuss solutions, share resources, and update on actions taken.
-* Transparency and Accountability: GitHub’s open nature offers transparency, allowing anyone to see how issues are being addressed and the dialogue around them, thus holding the city accountable for responsive action.
+## Step 1: Create a GitHub Account
+If you don't already have one, you'll need to create a GitHub account. It's free and easy. Visit [GitHub](https://github.com/join) and sign up.
 
-### Other Software Tools:
+## Step 2: Check Existing Issues
+Before submitting a new idea, please take a moment to browse through existing [issues](https://github.com/vacaville/ideas/issues) to see if someone else has already proposed something similar. If you find an idea like yours, feel free to add your thoughts and support to the discussion!
 
-* Civic Engagement Platforms (e.g., Pol.is, Consul): These platforms are designed for civic engagement, allowing for large-scale dialogue, consensus-building, and participatory budgeting.
-* Survey and Polling Tools (e.g., SurveyMonkey, Google Forms): Use these for gathering community input on specific issues, priorities, and satisfaction levels.
-* Collaborative Mapping Tools (e.g., OpenStreetMap, Mapbox): Enable residents to visually report issues or suggest improvements in their local area, which can be particularly effective for infrastructure and environmental concerns.
-* Social Media and Messaging Platforms: Utilize these for outreach, updates, and engaging with the community in a more informal and direct manner.
+## Step 3: Submit Your Idea
+If your idea is new, here's how to submit it:
+1. Click on the "Issues" tab in our repository.
+2. Press the "New Issue" button.
+3. Provide a clear and concise title for your idea.
+4. In the description, elaborate on your idea. Explain why you think it would benefit the city and how it could be implemented. The more details, the better!
+5. Use labels (if available) to categorize your idea, such as `Environment`, `Infrastructure`, `Public Safety`, etc.
+6. Submit your issue by clicking on "Submit new issue".
 
-### Facilitation Techniques:
+## Step 4: Engage with the Community
+After submitting, stay active! Engage with other community members by discussing your and their ideas. Collaboration is the key to refining and pushing ideas forward.
 
-* Educational Workshops and Webinars: Educate citizens on how to effectively use these tools through workshops and webinars. Cover topics like effective communication, issue reporting, and proposal submission.
-* Onboarding Guides and Tutorials: Create guides and tutorials for using GitHub Issues and other platforms, ensuring they are accessible to non-technical users.
-* Gamification Elements: Introduce gamification elements to encourage participation, such as badges for contributors, leaderboards for most active participants, or rewards for constructive proposals that are implemented.
-* Feedback and Recognition System: Implement a system to provide feedback on contributions and publicly recognize the efforts of citizens who actively participate, fostering a sense of ownership and achievement.
+## How Ideas Are Considered and Acknowledged
+We deeply value every contribution and are committed to reviewing each idea. Our city staff, along with community members, will consider all submissions. We encourage open discussions to explore the feasibility, impact, and potential implementation of ideas.
 
-### Ensuring Effective Participation:
+**Please note:** While we welcome all ideas and strive to give each the consideration it deserves, submission does not guarantee implementation. Decisions are made based on various factors, including feasibility, budget, community support, and alignment with city goals. Regardless of the outcome, we acknowledge every contribution and appreciate your efforts to participate in our city's development.
 
-* Accessibility: Ensure all tools and platforms are accessible to people with disabilities, and provide support for those who are not tech-savvy.
-* Inclusive Outreach: Conduct outreach in multiple languages and through various channels to ensure diverse community participation.
-* Facilitated Discussions: Organize moderated forums or discussions to guide the conversation, ensure productive dialogue, and address any conflicts or misunderstandings.
+## Stay Updated
+Watch this repository to receive notifications about discussions and updates on your and other community members' ideas. Your active participation keeps the community vibrant and impactful.
 
-By integrating GitHub Issues with a mix of other digital tools and facilitation techniques, local governments can create a more engaging, transparent, and responsive civic participation process. It’s important to continuously adapt and improve these approaches based on feedback and changing needs of the community to ensure everyone understands how to effectively contribute to their city's governance.
+Thank you for contributing to our city's future. Together, we can make a difference!
+
+
+
+
+
+For City Staff, please read about [Civic engagement](./CIVIC_ENGAGEMENT.md)
